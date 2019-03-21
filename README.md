@@ -1,5 +1,1 @@
- # IMPROVEMENT OF ARTIFICIAL INTELLIGENCE SYSTEM AND DATA SET FOR BLİND PEOPLE
-    This dataset is prepared by our school students.
-    
- # THIS PROJECT 50. TÜBİTAK HIGH SCHOOL RESEARCH PROJECTS COMPETITION SOFTWARE CATEGORY WINNER
-    Studies will be shared after competition
+
