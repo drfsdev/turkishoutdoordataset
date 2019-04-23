@@ -1,4 +1,5 @@
 NEBU V2 GÖRME ENGELLİLER İÇİN YAPAY ZEKA SİSTEMİ VE VERİ SETİNİN GELİŞTİRİLMESİ 
+
 Yapay zeka çalışmaları ülkelerin gelecek planlamaları içerisinde önemli bir yer tutmaktadır.
 İnsana ait fiziksel ve bilişsel özellikleri taklit etme yeteneğine sahip olan yapay zeka sistemleri
 özellikle hızlanan işlemciler ve maliyetlerin düşmesiyle birlikte eğitim, sağlık ve finans gibi
