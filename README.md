@@ -18,3 +18,32 @@ mekan veri setinde bulunan sınıflar doğrultusunda (Eczane,atm vb.) görme eng
 bir şekilde hem mesafe olarak hem de sesli olarak geri bildirim veren aynı zamanda kendi
 kendine öğrenebilen bir yapay zeka uygulaması gerçekleştirilmiştir.
 Anahatar Kelimeler: PyCharm Python ConvNet FasterRCNN
+
+
+NEBU V2 DEVELOPMENT OF ARTIFICIAL INTELLIGENCE SYSTEM AND DATA SET FOR BLİND PEOPLE
+
+Future planning for countries of artificial intelligence countries.
+Artificial intelligence systems that mimic human physical and cognitive characteristics
+rapid acceleration of processors and costs, as well as education, health and finance
+the diversity of life began to manifest itself. She lost her sight once.
+people with congenital or congenital visual impairment face risks and difficulties in their lives. artificial
+application to plan the lives of visually impaired people with intelligence technologies
+models were manufactured. In the use of the projects created and in this context
+the number of applications is limited. With this health problem in daily life
+It is easy to use on both individuals, and also as an artificial
+intelligence project targeted. Android Studio version 3.0
+Along with Java programming language. The developer part of the system is PyCharm 2018.2.4
+With Python programming language. Data set collected in the developed project
+it was also shared as an open source for the use of the artificial intelligence developer.
+First High School A set of classes in the location data set (pharmacy, ATM, etc.)
+in some way both distance and voice feedback is reported at the same time
+a self-learning artificial intelligence application.
+Key Words: PyCharm Python ConvNet Faster RCNN
+
+
+Data set and training files and codes can be found here
+
+https://drive.google.com/open?id=11w_dBUrGtL5e5yhRsGV0OpvxVEtiISQD
+
+
+
