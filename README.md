@@ -22,23 +22,7 @@ Anahatar Kelimeler: PyCharm Python ConvNet FasterRCNN
 
 NEBU V2 DEVELOPMENT OF ARTIFICIAL INTELLIGENCE SYSTEM AND DATA SET FOR BLİND PEOPLE
 
-Future planning for countries of artificial intelligence countries.
-Artificial intelligence systems that mimic human physical and cognitive characteristics
-rapid acceleration of processors and costs, as well as education, health and finance
-the diversity of life began to manifest itself. She lost her sight once.
-people with congenital or congenital visual impairment face risks and difficulties in their lives. artificial
-application to plan the lives of visually impaired people with intelligence technologies
-models were manufactured. In the use of the projects created and in this context
-the number of applications is limited. With this health problem in daily life
-It is easy to use on both individuals, and also as an artificial
-intelligence project targeted. Android Studio version 3.0
-Along with Java programming language. The developer part of the system is PyCharm 2018.2.4
-With Python programming language. Data set collected in the developed project
-it was also shared as an open source for the use of the artificial intelligence developer.
-First High School A set of classes in the location data set (pharmacy, ATM, etc.)
-in some way both distance and voice feedback is reported at the same time
-a self-learning artificial intelligence application.
-Key Words: PyCharm Python ConvNet Faster RCNN
+Studies on Artificial Intelligence has a great importance for countries’ future. The systems of artificial intelligence, which has the talent of imitation of physical and cognitive features, has started to Show itself in different aspects of life such as education, health, and economy because of the accelerated processors and cheap production. The people who lost their eyesight before birth and after birth face a lot of difficulties and risks in their lives. Thanks to artificial intelligence, there are models and applications to ease life for blind people. These applications have restricted their terms of use and the number of applications about blind people is limited. In this Project, we aimed to develop an AI Project in order to help the blind people to adapt their lives via this application easily and completely. The mobile part of the application is developed in Android Studio 3.0 with Java programming language. The other developer part of the system is made in PYCharm 2018.2.4 with Python programming language. Also, the data set of developed Project is free to use for other developers. As a consequence, the location dataset (pharmacy, ATM, etc.)  which is made by high school students for the first time in Turkey, an artificial intelligence system which can feedback with the voice to blind people and also can learn by itself is carried out and realized. 
 
 
 Data set and training files and codes can be found here
