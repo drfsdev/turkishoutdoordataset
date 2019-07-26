@@ -27,7 +27,7 @@ Studies on Artificial Intelligence has a great importance for countries’ futur
 
 Data set and training files and codes can be found here
 
-https://drive.google.com/open?id=11w_dBUrGtL5e5yhRsGV0OpvxVEtiISQD
+https://drive.google.com/open?id=11w_dBUrGtL5e5yhRsGV0OpvxVEtiISQ
 
 
 
